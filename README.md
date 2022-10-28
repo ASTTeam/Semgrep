@@ -153,4 +153,4 @@
 
 
 
-[![Stargazers over time](https://starchart.cc/ASTTeam/Semgrep.svg)](https://starchart.cc/ASTTeam/Semgrep)
+![Stargazers over time](https://starchart.cc/ASTTeam/Semgrep.svg)
