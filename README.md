@@ -2,7 +2,7 @@
 
 本项目收集整理Semgrep相关内容，包括Semgrep的设计原理实现方法或使用Semgrep进行的漏洞挖掘案例等。Semgrep基于语义的代码分析思想在SAST领域将会是一把利剑，无需编译快速扫描更是其优点。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2022年3月17日，最近的一次更新时间为2022年3月20日。
+本项目创建于2022年3月17日，最近的一次更新时间为2022年7月20日。
 
 - [01-Semgrep资源](https://github.com/ASTTeam/Semgrep#01-Semgrep%E8%B5%84%E6%BA%90)
 - [02-Semgrep基础](https://github.com/ASTTeam/Semgrep#02-Semgrep%E5%9F%BA%E7%A1%80)
@@ -33,6 +33,7 @@
 
 五、其他资源
 - [x] https://xz.aliyun.com/t/9531
+- [ ] https://xz.aliyun.com/t/12696
 - [x] https://www.anquanke.com/post/id/240028
 - [ ] https://zhuanlan.zhihu.com/p/377651159
 - [ ] https://zhuanlan.zhihu.com/p/387246394
